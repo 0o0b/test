@@ -49,5 +49,5 @@ document.getElementById("ts").innerHTML="Hello"
 
 ![头像](https://github.com/0o0b/test/blob/master/23551155.jpg)
 
-[![img]](https://github.com/0o0b)
-[img]:https://github.com/0o0b/test/blob/master/23551155.jpg "头像"
+[![0o0b]](https://github.com/0o0b)  
+[0o0b]:https://github.com/0o0b/test/blob/master/23551155.jpg "0o0b" 
