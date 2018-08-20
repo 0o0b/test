@@ -47,6 +47,6 @@ document.getElementById("ts").innerHTML="Hello"
     多行文本
     多行文本
 
-![头像](https://github.com/0o0b/test/blob/master/23551155.jpg)
+![头像](https://github.com/0o0b/test/blob/master/23551155.jpg "View image.")
 
 [![0o0b](https://github.com/0o0b/test/blob/master/23551155.jpg)](https://github.com/0o0b "Hello 0o0b.")
