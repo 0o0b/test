@@ -49,5 +49,4 @@ document.getElementById("ts").innerHTML="Hello"
 
 ![头像](https://github.com/0o0b/test/blob/master/23551155.jpg)
 
-[![0o0b]](https://github.com/0o0b)  
-[0o0b]:https://github.com/0o0b/test/blob/master/23551155.jpg "0o0b" 
+[![0o0b](https://github.com/0o0b/test/blob/master/23551155.jpg)](https://github.com/0o0b "Hello 0o0b.")
